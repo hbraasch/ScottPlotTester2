@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "ScottPlotTester2",
+  "display": "standalone",
+  "name": "ScottPlotTester2",
+  "short_name": "ScottPlotTester2",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
