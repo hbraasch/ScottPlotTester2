@@ -42,6 +42,8 @@
       Navigation;
       ThemeService;
     </UnoFeatures>
+    <WasmShellEnableThreads>true</WasmShellEnableThreads>
+    <WasmShellPThreadsPoolSize>8</WasmShellPThreadsPoolSize>
   </PropertyGroup>
     <ItemGroup>
         <PackageReference Include="ScottPlot.WinUI" />
